@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.divLista {
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    line-height: 50px;
+    background-color: rgba(219, 219, 219, 0.842);
+    margin: 0 auto 10px auto;
+}
+
+.tarefaLista {
+    color: black;
+}

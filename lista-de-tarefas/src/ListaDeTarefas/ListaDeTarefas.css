@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bannerTarefa {
+    width: 500px;
+    border-radius: 20px;
+}
+
+.tituloTarefa {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
